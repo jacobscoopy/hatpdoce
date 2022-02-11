@@ -1,1 +1,3 @@
-# kali-linux-turnin
+# codepath_homework
+
+See branches for assignments.
